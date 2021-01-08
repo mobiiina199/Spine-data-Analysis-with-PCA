@@ -1,1 +1,2 @@
 # -Spine-data-Analysis-with-PCA
+The Spine dataset contains information about patients belonging to one of three categories of lumbar spine malfunctions: 1) Normal, 2) Disk Hernia and 3) Spondylolisthesis with the last two categories being abnormal. Each patient is represented in the data set by six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine (in this order): pelvic incidence (PI), pelvic tilt (PT), lumbar lordosis angle (LL), sacral slope (SS), pelvic radius (PR) and grade of spondylolisthesis (GS).
